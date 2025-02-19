@@ -1,6 +1,7 @@
-﻿using Domain.Interfaces.Grupos;
+﻿using Domain.Entities.Usuarios;
+using Domain.Interfaces.Grupos;
 
-namespace Domain.Entities.Usuarios
+namespace Domain.Entities.Grupos
 {
     public class Grupo
     {

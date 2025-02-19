@@ -1,4 +1,5 @@
-﻿using Domain.Interfaces.Usuarios;
+﻿using Domain.Entities.Grupos;
+using Domain.Interfaces.Usuarios;
 
 namespace Domain.Entities.Usuarios
 {
